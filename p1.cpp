@@ -1,3 +1,21 @@
+/*
+
+       Author :  Yash Desai
+       Title : Square Pattern
+       Date : 04/072023
+
+       Input: n
+       Output: =============================V========================   
+                     *****
+                     *****
+                     *****          
+                     *****
+                     *****
+                 
+             
+*/
+
+
 #include <iostream>
 using namespace std;
 
@@ -16,9 +34,3 @@ int main() {
   return 0;
 }
 
-
-// *****
-// *****
-// *****
-// *****
-// *****
